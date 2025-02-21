@@ -1,0 +1,7 @@
+dynamic routing
+how to get data coming from  frontend at backend route
+setting up parsers for from    setting up ejs for ejs pages{
+    install ejs
+    setup ejs as a middleware for viewengine
+}
+setting up public static files
